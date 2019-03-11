@@ -1,0 +1,5 @@
+#!/bin/bash
+
+conda install jupyter nltk scikit-learn -y
+conda install matplotlib -y
+conda install -c conda-forge wordcloud -y
